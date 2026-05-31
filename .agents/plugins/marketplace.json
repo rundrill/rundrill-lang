@@ -1,0 +1,34 @@
+{
+  "name": "rundrill-lang",
+  "interface": {
+    "displayName": "RunDrill — Languages"
+  },
+  "plugins": [
+    {
+      "name": "rundrill-kazakh",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-kazakh.git",
+        "ref": "v0.1.9"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-english",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-english.git",
+        "ref": "v0.1.9"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}
