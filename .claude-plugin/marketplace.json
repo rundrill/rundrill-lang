@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "RunDrill language-learning courses. Each plugin is one natural-language course: a <subject>-coach skill backed by an MCP drill engine (curriculum, progress, mistake memory).",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
@@ -26,6 +26,105 @@
         "ref": "v0.1.9"
       },
       "description": "English coach — drills, progress, and mistake memory, for Russian/Kazakh speakers."
+    },
+    {
+      "name": "rundrill-spanish",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-spanish",
+        "ref": "v0.1.0"
+      },
+      "description": "Spanish coach (A1–C2) — drills, progress, and mistake memory. Drills grammatical gender, ser/estar, the two pasts, and the subjunctive."
+    },
+    {
+      "name": "rundrill-french",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-french",
+        "ref": "v0.1.0"
+      },
+      "description": "French coach (A1–C2) — drills, progress, and mistake memory. Drills nasal vowels, passé composé/imparfait, the subjunctive, and y/en."
+    },
+    {
+      "name": "rundrill-italian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-italian",
+        "ref": "v0.1.0"
+      },
+      "description": "Italian coach (A1–C2) — drills, progress, and mistake memory. Drills gemination, essere/avere, the congiuntivo, and ci/ne."
+    },
+    {
+      "name": "rundrill-german",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-german",
+        "ref": "v0.1.0"
+      },
+      "description": "German coach (A1–C2) — drills, progress, and mistake memory. Drills the four cases, V2/verb-final order, separable verbs, and Konjunktiv II."
+    },
+    {
+      "name": "rundrill-portuguese",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-portuguese",
+        "ref": "v0.1.0"
+      },
+      "description": "Portuguese coach (A1–C2) — drills, progress, and mistake memory. Drills nasal vowels, ser/estar, the future subjunctive, and clitic placement."
+    },
+    {
+      "name": "rundrill-dutch",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-dutch",
+        "ref": "v0.1.0"
+      },
+      "description": "Dutch coach (A1–C2) — drills, progress, and mistake memory. Drills de/het, V2/verb-final order, separable verbs, and hebben/zijn."
+    },
+    {
+      "name": "rundrill-swedish",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-swedish",
+        "ref": "v0.1.0"
+      },
+      "description": "Swedish coach (A1–C2) — drills, progress, and mistake memory. Drills en/ett, double definiteness, V2 inversion, and the supine."
+    },
+    {
+      "name": "rundrill-hungarian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-hungarian",
+        "ref": "v0.1.0"
+      },
+      "description": "Hungarian coach (A1–C2) — drills, progress, and mistake memory. Drills vowel harmony, ~18 case suffixes, and definite/indefinite conjugation."
+    },
+    {
+      "name": "rundrill-czech",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-czech",
+        "ref": "v0.1.0"
+      },
+      "description": "Czech coach (A1–C2) — drills, progress, and mistake memory. Drills the seven cases, animacy, verbal aspect, and second-position clitics."
+    },
+    {
+      "name": "rundrill-polish",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-polish",
+        "ref": "v0.1.0"
+      },
+      "description": "Polish coach (A1–C2) — drills, progress, and mistake memory. Drills the seven cases, aspect, the masculine-personal plural, and nasal vowels."
+    },
+    {
+      "name": "rundrill-greek",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-greek",
+        "ref": "v0.1.0"
+      },
+      "description": "Greek coach (A1–C2) — drills, progress, and mistake memory. Drills the alphabet, the four cases, no infinitive (να), and verbal aspect."
     }
   ]
 }
