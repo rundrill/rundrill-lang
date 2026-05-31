@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-kazakh.git",
-        "ref": "v0.1.9"
+        "ref": "v0.1.10"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -22,7 +22,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-english.git",
-        "ref": "v0.1.9"
+        "ref": "v0.1.10"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -35,7 +35,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-spanish.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -48,7 +48,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-french.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -61,7 +61,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-italian.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-german.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -87,7 +87,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-portuguese.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -100,7 +100,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-dutch.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -113,7 +113,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-swedish.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -126,7 +126,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-hungarian.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -139,7 +139,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-czech.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -152,7 +152,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-polish.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -165,7 +165,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rundrill/rundrill-greek.git",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
       "policy": {
         "installation": "AVAILABLE",
