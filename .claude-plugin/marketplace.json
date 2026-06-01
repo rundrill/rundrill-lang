@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "RunDrill language-learning courses. Each plugin is one natural-language course: a <subject>-coach skill backed by an MCP drill engine (curriculum, progress, mistake memory).",
-    "version": "0.2.0"
+    "version": "0.3.0"
   },
   "plugins": [
     {
@@ -125,6 +125,213 @@
         "ref": "v0.1.1"
       },
       "description": "Greek coach (A1–C2) — drills, progress, and mistake memory. Drills the alphabet, the four cases, no infinitive (να), and verbal aspect."
+    },
+    {
+      "name": "rundrill-arabic",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-arabic",
+        "ref": "v0.1.0"
+      },
+      "description": "Arabic coach (A0–C2) — drills, progress, and mistake memory. Drills the abjad, emphatic/pharyngeal sounds, the root-and-pattern system, and the case endings."
+    },
+    {
+      "name": "rundrill-armenian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-armenian",
+        "ref": "v0.1.0"
+      },
+      "description": "Armenian coach (A0–C2) — drills, progress, and mistake memory. Drills the alphabet, ejective consonants, the seven cases, and auxiliary tenses."
+    },
+    {
+      "name": "rundrill-chinese",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-chinese",
+        "ref": "v0.1.0"
+      },
+      "description": "Chinese coach (A0–C2) — drills, progress, and mistake memory. Drills the four tones, characters, measure words, and aspect particles."
+    },
+    {
+      "name": "rundrill-estonian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-estonian",
+        "ref": "v0.1.0"
+      },
+      "description": "Estonian coach (A0–C2) — drills, progress, and mistake memory. Drills the fourteen cases, consonant gradation, the partitive, and no future tense."
+    },
+    {
+      "name": "rundrill-georgian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-georgian",
+        "ref": "v0.1.0"
+      },
+      "description": "Georgian coach (A0–C2) — drills, progress, and mistake memory. Drills the script, ejectives, the split-ergative cases, and polypersonal verbs."
+    },
+    {
+      "name": "rundrill-hebrew",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-hebrew",
+        "ref": "v0.1.0"
+      },
+      "description": "Hebrew coach (A0–C2) — drills, progress, and mistake memory. Drills the alphabet, the root-and-binyan system, verb gender, and the construct state."
+    },
+    {
+      "name": "rundrill-hindi",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-hindi",
+        "ref": "v0.1.0"
+      },
+      "description": "Hindi coach (A0–C2) — drills, progress, and mistake memory. Drills Devanagari, retroflex sounds, the ergative ne, and compound verbs."
+    },
+    {
+      "name": "rundrill-indonesian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-indonesian",
+        "ref": "v0.1.0"
+      },
+      "description": "Indonesian coach (A0–C2) — drills, progress, and mistake memory. Drills the affix system, reduplication, classifiers, and no tense marking."
+    },
+    {
+      "name": "rundrill-japanese",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-japanese",
+        "ref": "v0.1.0"
+      },
+      "description": "Japanese coach (A0–C2) — drills, progress, and mistake memory. Drills the three scripts, particles, keigo, counters, and conjugation."
+    },
+    {
+      "name": "rundrill-korean",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-korean",
+        "ref": "v0.1.0"
+      },
+      "description": "Korean coach (A0–C2) — drills, progress, and mistake memory. Drills Hangul, the particles, speech levels and honorifics, and conjugation."
+    },
+    {
+      "name": "rundrill-latvian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-latvian",
+        "ref": "v0.1.0"
+      },
+      "description": "Latvian coach (A0–C2) — drills, progress, and mistake memory. Drills the seven cases, the declensions, tone, and conjugation classes."
+    },
+    {
+      "name": "rundrill-lithuanian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-lithuanian",
+        "ref": "v0.1.0"
+      },
+      "description": "Lithuanian coach (A0–C2) — drills, progress, and mistake memory. Drills the seven cases, pitch accent, mobile stress, and participles."
+    },
+    {
+      "name": "rundrill-persian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-persian",
+        "ref": "v0.1.0"
+      },
+      "description": "Persian coach (A0–C2) — drills, progress, and mistake memory. Drills the script, the ezāfe, light verbs, and colloquial-vs-formal diglossia."
+    },
+    {
+      "name": "rundrill-romanian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-romanian",
+        "ref": "v0.1.0"
+      },
+      "description": "Romanian coach (A0–C2) — drills, progress, and mistake memory. Drills the postposed article, the genitive-dative, neuter gender, and the subjunctive."
+    },
+    {
+      "name": "rundrill-russian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-russian",
+        "ref": "v0.1.0"
+      },
+      "description": "Russian coach (A0–C2) — drills, progress, and mistake memory. Drills the Cyrillic alphabet, the six cases, verbal aspect, and verbs of motion."
+    },
+    {
+      "name": "rundrill-serbian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-serbian",
+        "ref": "v0.1.0"
+      },
+      "description": "Serbian coach (A0–C2) — drills, progress, and mistake memory. Drills both scripts, the seven cases, pitch accent, and verbal aspect."
+    },
+    {
+      "name": "rundrill-slovak",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-slovak",
+        "ref": "v0.1.0"
+      },
+      "description": "Slovak coach (A0–C2) — drills, progress, and mistake memory. Drills the seven cases, the rhythmic-length rule, aspect, and three genders."
+    },
+    {
+      "name": "rundrill-tagalog",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-tagalog",
+        "ref": "v0.1.0"
+      },
+      "description": "Tagalog coach (A0–C2) — drills, progress, and mistake memory. Drills the focus/trigger system, aspect, the ang/ng/sa markers, and enclitics."
+    },
+    {
+      "name": "rundrill-thai",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-thai",
+        "ref": "v0.1.0"
+      },
+      "description": "Thai coach (A0–C2) — drills, progress, and mistake memory. Drills the five tones, the script, classifiers, and the polite particles."
+    },
+    {
+      "name": "rundrill-turkish",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-turkish",
+        "ref": "v0.1.0"
+      },
+      "description": "Turkish coach (A0–C2) — drills, progress, and mistake memory. Drills vowel harmony, agglutinative suffixes, the cases, and the evidential past."
+    },
+    {
+      "name": "rundrill-ukrainian",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-ukrainian",
+        "ref": "v0.1.0"
+      },
+      "description": "Ukrainian coach (A0–C2) — drills, progress, and mistake memory. Drills the Cyrillic alphabet, the seven cases, verbal aspect, and the vocative."
+    },
+    {
+      "name": "rundrill-uzbek",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-uzbek",
+        "ref": "v0.1.0"
+      },
+      "description": "Uzbek coach (A0–C2) — drills, progress, and mistake memory. Drills vowel harmony, agglutinative suffixes, the six cases, and the script split."
+    },
+    {
+      "name": "rundrill-vietnamese",
+      "source": {
+        "source": "github",
+        "repo": "rundrill/rundrill-vietnamese",
+        "ref": "v0.1.0"
+      },
+      "description": "Vietnamese coach (A0–C2) — drills, progress, and mistake memory. Drills the six tones, classifiers, the kinship-pronoun system, and serial verbs."
     }
   ]
 }

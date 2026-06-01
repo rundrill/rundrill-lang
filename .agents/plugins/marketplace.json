@@ -172,6 +172,305 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Education"
+    },
+    {
+      "name": "rundrill-arabic",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-arabic.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-armenian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-armenian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-chinese",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-chinese.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-estonian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-estonian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-georgian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-georgian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-hebrew",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-hebrew.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-hindi",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-hindi.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-indonesian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-indonesian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-japanese",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-japanese.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-korean",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-korean.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-latvian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-latvian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-lithuanian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-lithuanian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-persian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-persian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-romanian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-romanian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-russian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-russian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-serbian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-serbian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-slovak",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-slovak.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-tagalog",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-tagalog.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-thai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-thai.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-turkish",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-turkish.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-ukrainian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-ukrainian.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-uzbek",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-uzbek.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    },
+    {
+      "name": "rundrill-vietnamese",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/rundrill/rundrill-vietnamese.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
     }
   ]
 }
