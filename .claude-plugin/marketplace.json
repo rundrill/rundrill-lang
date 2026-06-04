@@ -14,7 +14,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-kazakh",
-        "ref": "v0.1.12"
+        "ref": "v0.1.13"
       },
       "description": "Kazakh coach — drills, progress, and mistake memory. Starts at A0 (the alphabet)."
     },
