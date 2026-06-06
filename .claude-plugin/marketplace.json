@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "RunDrill language-learning courses. Each plugin is one natural-language course: a <subject>-coach skill backed by an MCP drill engine (curriculum, progress, mistake memory).",
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   "plugins": [
     {
@@ -14,7 +14,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-kazakh",
-        "ref": "v0.1.15"
+        "ref": "v0.1.16"
       },
       "description": "Kazakh coach — drills, progress, and mistake memory. Starts at A0 (the alphabet)."
     },
@@ -23,7 +23,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-english",
-        "ref": "v0.1.10"
+        "ref": "v0.1.11"
       },
       "description": "English coach — drills, progress, and mistake memory, for Russian/Kazakh speakers."
     },
@@ -32,7 +32,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-spanish",
-        "ref": "v0.1.1"
+        "ref": "v0.1.2"
       },
       "description": "Spanish coach (A1–C2) — drills, progress, and mistake memory. Drills grammatical gender, ser/estar, the two pasts, and the subjunctive."
     },
