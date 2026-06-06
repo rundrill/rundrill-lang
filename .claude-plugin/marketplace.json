@@ -23,7 +23,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-english",
-        "ref": "v0.1.11"
+        "ref": "v0.1.12"
       },
       "description": "English coach — drills, progress, and mistake memory, for Russian/Kazakh speakers."
     },
@@ -32,7 +32,7 @@
       "source": {
         "source": "github",
         "repo": "rundrill/rundrill-spanish",
-        "ref": "v0.1.2"
+        "ref": "v0.1.3"
       },
       "description": "Spanish coach (A1–C2) — drills, progress, and mistake memory. Drills grammatical gender, ser/estar, the two pasts, and the subjunctive."
     },
